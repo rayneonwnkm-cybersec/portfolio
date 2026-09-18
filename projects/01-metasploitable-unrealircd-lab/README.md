@@ -112,12 +112,13 @@ The exploitation process included:
 6. Selecting a reverse shell payload.
 7. Setting the Kali Linux IP address as `LHOST`.
 8. Running the exploit against the Metasploitable 2 target.
-9. Obtaining shell access after successful exploitation.
+9. Successfully obtaining **root access** to the Metasploitable 2 system.
 
 ### Exploitation Demonstration
 
-The video below demonstrates the complete exploitation process, from configuring the Metasploit module through obtaining shell access and rebooting the Metasploitable 2 target.
+The video below demonstrates the complete exploitation process, beginning with the Metasploit configuration and ending with successful root access and the reboot of the Metasploitable 2 target.
 
 **Video:** `01-metasploit-unrealircd-exploitation.mp4`
 
 The demonstration was performed exclusively against the intentionally vulnerable Metasploitable 2 virtual machine in the isolated lab environment.
+
