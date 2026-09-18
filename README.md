@@ -21,9 +21,9 @@ Bachelor of Engineering in Computer Engineering
 GPA: **3.79 / 4.00**
 
 **Gusto University** — Yangon, Myanmar  
+Diploma in Computer Science 
 2018 – 2020
 
-Diploma in Computer Science  
 
 ## Projects
 
