@@ -55,7 +55,7 @@ On Kali Linux, `ifconfig` was used to identify the local network configuration a
 10.0.2.3
 ```
 
-<img width="722" height="802" alt="01-kali-ip-configuration" src="https://github.com/user-attachments/assets/0752fdcf-86e5-4f3e-ae3b-c6cb68783f4b" />
+![Kali Linux IP configuration](screenshots/01-kali-ip-configuration.png)
 
 
 The Metasploitable 2 machine was identified as the target system:
@@ -64,7 +64,7 @@ The Metasploitable 2 machine was identified as the target system:
 10.0.2.4
 ```
 
-<img width="605" height="310" alt="02-metasploitable-ip-configuration" src="https://github.com/user-attachments/assets/fd87e2d9-28e3-4630-9562-f378cab37720" />
+![Metasploitable 2 IP configuration](screenshots/02-metasploitable-ip-configuration.png)
 
 These addresses were then used during the subsequent scanning and exploitation steps.
 
