@@ -22,6 +22,7 @@ GPA: **3.79 / 4.00**
 
 **Gusto University** — Yangon, Myanmar  
 2018 – 2020
+
 Diploma in Computer Science  
 
 ## Projects
