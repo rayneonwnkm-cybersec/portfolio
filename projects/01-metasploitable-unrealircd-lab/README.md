@@ -97,3 +97,27 @@ The UnrealIRCd finding was selected for further investigation and controlled exp
 ![Nessus UnrealIRCd vulnerability](screenshots/04-nessus-unrealircd-vulnerability.png)
 
 The vulnerability identified by Nessus was then investigated using Metasploit to determine whether it could be successfully exploited in the controlled lab environment.
+
+## 4. Controlled Exploitation with Metasploit
+
+After Nessus identified the critical UnrealIRCd vulnerability, Metasploit was used to test the vulnerability in the controlled lab environment.
+
+The exploitation process included:
+
+1. Starting the Metasploit Framework with `msfconsole`.
+2. Searching for the UnrealIRCd exploit module.
+3. Selecting the appropriate exploit module.
+4. Reviewing the available module options.
+5. Setting the target IP address using `RHOSTS`.
+6. Selecting a reverse shell payload.
+7. Setting the Kali Linux IP address as `LHOST`.
+8. Running the exploit against the Metasploitable 2 target.
+9. Obtaining shell access after successful exploitation.
+
+### Exploitation Demonstration
+
+The video below demonstrates the complete exploitation process, from configuring the Metasploit module through obtaining shell access and rebooting the Metasploitable 2 target.
+
+**Video:** `01-metasploit-unrealircd-exploitation.mp4`
+
+The demonstration was performed exclusively against the intentionally vulnerable Metasploitable 2 virtual machine in the isolated lab environment.
