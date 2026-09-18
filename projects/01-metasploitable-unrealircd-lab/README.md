@@ -82,4 +82,4 @@ The scan identified multiple open ports and services running on the target. The 
 
 ### Nmap Scan Results
 
-![Nmap service enumeration](../../screenshots/03-nmap-scan.png)
+![Nmap service enumeration](screenshots/03-nmap-scan.png)
