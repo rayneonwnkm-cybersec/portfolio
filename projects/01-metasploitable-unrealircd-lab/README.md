@@ -1,6 +1,6 @@
-Metasploitable 2 – UnrealIRCd Vulnerability Assessment & Exploitation Lab
+**Metasploitable 2 – UnrealIRCd Vulnerability Assessment & Exploitation Lab**
 
-Overview
+**Overview**
 
 This project demonstrates a basic vulnerability assessment and controlled exploitation workflow using an intentionally vulnerable Metasploitable 2 virtual machine.
 
