@@ -120,5 +120,9 @@ The video below demonstrates the complete exploitation process, beginning with t
 
 [▶️ Watch the Metasploit Exploitation Demonstration](videos/01-metasploit-unrealircd-exploitation.mp4)
 
+<video src="videos/01-metasploit-unrealircd-exploitation.mp4" controls width="800">
+  Your browser does not support the video tag.
+</video>
+
 The demonstration was performed exclusively against the intentionally vulnerable Metasploitable 2 virtual machine in the isolated lab environment.
 
