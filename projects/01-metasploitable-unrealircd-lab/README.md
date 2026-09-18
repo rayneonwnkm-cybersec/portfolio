@@ -83,3 +83,17 @@ The scan identified multiple open ports and services running on the target. The 
 ### Nmap Scan Results
 
 ![Nmap service enumeration](screenshots/03-nmap-scan.png)
+
+## 3. Vulnerability Identification with Nessus
+
+After identifying the exposed services with Nmap, Nessus was used to perform a vulnerability assessment of the Metasploitable 2 target.
+
+The scan identified several vulnerabilities, including a **critical UnrealIRCd vulnerability**.
+
+The UnrealIRCd finding was selected for further investigation and controlled exploitation in the lab.
+
+### Nessus Finding
+
+![Nessus UnrealIRCd vulnerability](screenshots/04-nessus-unrealircd-vulnerability.png)
+
+The vulnerability identified by Nessus was then investigated using Metasploit to determine whether it could be successfully exploited in the controlled lab environment.
