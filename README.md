@@ -15,14 +15,14 @@ I am currently building my practical cybersecurity skills through hands-on labs,
 
 ## Education
 
-**Mae Fah Luang University (MFU)** — Chiang Rai, Thailand 
+**Mae Fah Luang University (MFU)** — Chiang Rai, Thailand  
 Bachelor of Engineering in Computer Engineering  
-(2022 – 2025)  
+2022 – 2025  
 GPA: **3.79 / 4.00**
 
 **Gusto University** — Yangon, Myanmar  
-Diploma in Computer Science
-(2018 – 2020)
+Diploma in Computer Science  
+2018 – 2020
 
 ## Projects
 
