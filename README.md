@@ -13,17 +13,6 @@ I am currently building my practical cybersecurity skills through hands-on labs,
 - **Security Concepts:** Vulnerability Assessment, Penetration Testing, Incident Response, SIEM Fundamentals
 - **Virtualization:** VirtualBox
 
-## Education
-
-**Mae Fah Luang University (MFU)** — Chiang Rai, Thailand  
-Bachelor of Engineering in Computer Engineering  
-2022 – 2025  
-GPA: **3.79 / 4.00**
-
-**Gusto University** — Yangon, Myanmar  
-Diploma in Computer Science  
-2018 – 2020
-
 ## Experience
 
 **Security Engineer Intern**  
@@ -66,3 +55,15 @@ A hands-on cybersecurity lab demonstrating a complete vulnerability assessment a
 
 - **HCCDA-Tech Essentials** — Huawei Cloud Developer
 - **NSE 1 in Cybersecurity** — Fortinet NSE 1 Cybersecurity and Cloud Fundamentals
+
+
+## Education
+
+**Mae Fah Luang University (MFU)** — Chiang Rai, Thailand  
+Bachelor of Engineering in Computer Engineering  
+2022 – 2025  
+GPA: **3.79 / 4.00**
+
+**Gusto University** — Yangon, Myanmar  
+Diploma in Computer Science  
+2018 – 2020
