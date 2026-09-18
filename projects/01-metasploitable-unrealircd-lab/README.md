@@ -42,3 +42,26 @@ The lab was conducted using two virtual machines connected through a virtual net
 ```
 
 > **Note:** The IP addresses shown above are private lab addresses used within the virtual environment.
+
+## 1. Identify IP Addresses
+
+The first step was to identify the IP addresses assigned to each virtual machine.
+
+On Kali Linux, `ifconfig` was used to identify the local network configuration and confirm the Kali Linux IP address.
+
+**Kali Linux:**
+
+```text
+10.0.2.3
+```
+
+<img width="722" height="802" alt="01-kali-ip-configuration" src="https://github.com/user-attachments/assets/0752fdcf-86e5-4f3e-ae3b-c6cb68783f4b" />
+
+
+The Metasploitable 2 machine was identified as the target system:
+
+```text
+10.0.2.4
+```
+
+These addresses were then used during the subsequent scanning and exploitation steps.
