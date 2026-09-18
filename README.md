@@ -24,6 +24,26 @@ GPA: **3.79 / 4.00**
 Diploma in Computer Science  
 2018 – 2020
 
+## Experience
+
+**Security Engineer Intern**  
+Center for Information Technology Services (CITS), Mae Fah Luang University — Chiang Rai, Thailand  
+2025 – 2026
+
+- Conducted vulnerability assessments in controlled lab environments using Nessus Essentials.
+- Performed network scanning, host discovery, and service enumeration using Nmap.
+- Practiced exploitation techniques on Metasploitable 2 using the Metasploit Framework within isolated virtual environments.
+- Identified open ports, vulnerable services, and system misconfigurations during security assessments.
+- Built and managed cybersecurity lab environments using Kali Linux and virtual machines.
+- Documented findings and basic remediation recommendations from security testing activities.
+
+**Volunteer Teaching Assistant**  
+Gusto University — Yangon, Myanmar  
+2019 – 2020
+
+- Helped junior students understand practical networking concepts.
+- Assisted students during networking lab exercises and coursework.
+
 ## Projects
 
 ### Metasploitable 2 – UnrealIRCd Vulnerability Assessment & Exploitation Lab
