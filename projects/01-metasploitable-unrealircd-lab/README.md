@@ -118,7 +118,8 @@ The exploitation process included:
 
 The video below demonstrates the complete exploitation process, beginning with the Metasploit configuration and ending with successful root access and the reboot of the Metasploitable 2 target.
 
-[▶️ Watch the Metasploit Exploitation Demonstration](videos/01-metasploit-unrealircd-exploitation.mp4)
+<video src="https://github.com/user-attachments/assets/9037c29d-a55c-4564-9883-52a532ff999a" controls width="800">
+</video>
 
 The demonstration was performed exclusively against the intentionally vulnerable Metasploitable 2 virtual machine in the isolated lab environment.
 
