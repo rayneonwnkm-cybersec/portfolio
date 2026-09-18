@@ -64,4 +64,22 @@ The Metasploitable 2 machine was identified as the target system:
 10.0.2.4
 ```
 
+<img width="605" height="310" alt="02-metasploitable-ip-configuration" src="https://github.com/user-attachments/assets/fd87e2d9-28e3-4630-9562-f378cab37720" />
+
 These addresses were then used during the subsequent scanning and exploitation steps.
+
+## 2. Service Enumeration with Nmap
+
+After identifying the target IP address, Nmap was used to enumerate the services and versions exposed by the Metasploitable 2 machine.
+
+The following command was used:
+
+```bash
+nmap -sV 10.0.2.4
+```
+
+The scan identified multiple open ports and services running on the target. The service and version information provided useful information for determining potential vulnerabilities that could be investigated further.
+
+### Nmap Scan Results
+
+![Nmap service enumeration](../../screenshots/03-nmap-scan.png)
