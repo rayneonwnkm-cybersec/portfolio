@@ -118,8 +118,6 @@ The exploitation process included:
 
 The video below demonstrates the complete exploitation process, beginning with the Metasploit configuration and ending with successful root access and the reboot of the Metasploitable 2 target.
 
-[▶️ Watch the Metasploit Exploitation Demonstration](videos/01-metasploit-unrealircd-exploitation.mp4)
-
 <video src="videos/01-metasploit-unrealircd-exploitation.mp4" controls width="800">
   Your browser does not support the video tag.
 </video>
