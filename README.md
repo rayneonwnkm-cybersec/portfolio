@@ -35,7 +35,7 @@ Gusto University — Yangon, Myanmar
 
 ## Projects
 
-### Metasploitable 2 – UnrealIRCd Vulnerability Assessment & Exploitation Lab
+### UnrealIRCd Vulnerability Assessment & Exploitation Lab – Metasploitable 2 
 
 A hands-on cybersecurity lab demonstrating a complete vulnerability assessment and controlled exploitation workflow against an intentionally vulnerable Metasploitable 2 virtual machine.
 
