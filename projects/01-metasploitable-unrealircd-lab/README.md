@@ -90,7 +90,7 @@ After identifying the exposed services with Nmap, Nessus was used to perform a v
 
 The scan identified several vulnerabilities, including a **critical UnrealIRCd vulnerability**.
 
-The UnrealIRCd finding was selected for further investigation and controlled exploitation in the lab.
+The UnrealIRCd finding was selected for further investigation.
 
 ### Nessus Finding
 
