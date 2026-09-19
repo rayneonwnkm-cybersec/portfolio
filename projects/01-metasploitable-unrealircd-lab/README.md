@@ -1,4 +1,4 @@
-## Metasploitable 2 – UnrealIRCd Vulnerability Assessment & Exploitation Lab
+## UnrealIRCd Vulnerability Assessment & Exploitation Lab – Metasploitable 2 
 
 ## Overview
 
