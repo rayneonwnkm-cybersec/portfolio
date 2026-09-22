@@ -27,7 +27,7 @@ Center for Information Technology Services (CITS), Mae Fah Luang University — 
 - Documented findings and basic remediation recommendations from security testing activities.
 
 **Volunteer Teaching Assistant**  
-Gusto University — Yangon, Myanmar  
+GUSTO College — Yangon, Myanmar  
 2019 – 2020
 
 - Helped junior students understand practical networking concepts.
@@ -90,6 +90,6 @@ Bachelor of Engineering in Computer Engineering
 2022 – 2025  
 GPA: **3.79 / 4.00**
 
-**Gusto University** — Yangon, Myanmar  
+**GUSTO College** — Yangon, Myanmar  
 Diploma in Computer Science  
 2018 – 2020
