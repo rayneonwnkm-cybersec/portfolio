@@ -51,6 +51,19 @@ A hands-on cybersecurity lab demonstrating a complete vulnerability assessment a
 
 [View Project →](projects/01-metasploitable-unrealircd-lab/)
 
+### Basic Splunk SIEM Lab
+
+Built a small SIEM lab using Splunk Enterprise and Splunk Universal Forwarder to collect Windows Security Event Logs from a Windows 10 virtual machine into a centralized logging environment.
+
+* Configured log forwarding from a Windows endpoint to Splunk.
+* Created detections for failed login attempts using Windows Event ID 4625.
+* Developed basic dashboards and alerts to monitor suspicious authentication activity and potential brute-force attempts.
+* Experimented with additional detections for account creation and privilege-related events using Windows Security Logs.
+* Practiced SPL searches and basic SIEM alerting workflows.
+* Developed a better understanding of Windows Event IDs, log analysis, and fundamental SOC monitoring concepts.
+
+**Status:** Ongoing
+
 ### CCTV Location & Management Web Application
 
 Contributed to the frontend development of a web-based application designed to visualize CCTV locations and support CCTV management.
