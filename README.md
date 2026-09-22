@@ -51,6 +51,19 @@ A hands-on cybersecurity lab demonstrating a complete vulnerability assessment a
 
 [View Project →](projects/01-metasploitable-unrealircd-lab/)
 
+### CCTV Location & Management Web Application
+
+Contributed to the frontend development of a web-based application designed to visualize CCTV locations and support CCTV management.
+
+* Developed and improved frontend components for the CCTV location management interface.
+* Implemented an interactive map interface to display CCTV locations.
+* Designed visual indicators to represent CCTV status and availability.
+* Focused on usability and clear presentation of CCTV information.
+* Worked with location-based data while keeping internal network and system information confidential.
+
+*Project details, internal network information, and system-specific configurations are not publicly disclosed due to confidentiality requirements.*
+
+
 ## Certifications
 
 - **HCCDA-Tech Essentials** — Huawei Cloud Developer
