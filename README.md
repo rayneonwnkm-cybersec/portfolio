@@ -62,7 +62,6 @@ Built a small SIEM lab using Splunk Enterprise and Splunk Universal Forwarder to
 * Practiced SPL searches and basic SIEM alerting workflows.
 * Developed a better understanding of Windows Event IDs, log analysis, and fundamental SOC monitoring concepts.
 
-**Status:** Ongoing
 
 ### CCTV Location & Management Web Application
 
