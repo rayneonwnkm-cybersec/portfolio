@@ -1,7 +1,7 @@
 # Wunna Kaung Myat
 
 ## Cybersecurity Portfolio
-I am a recent Computer Engineering graduate with a strong interest in cybersecurity, particularly **offensive security, penetration testing, vulnerability assessment, and Security Operations (SOC).
+I am a recent Computer Engineering graduate with a strong interest in cybersecurity, particularly offensive security, penetration testing, vulnerability assessment, and Security Operations (SOC).
 
 I am currently building my practical cybersecurity skills through hands-on labs, security tools, and industry-focused training, with a focus on developing practical experience across both offensive and defensive security.
 
